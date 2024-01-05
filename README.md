@@ -6,7 +6,7 @@ The data is found below:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Packages Used:
-+Pandas
-+Numpy
-+Sklearn
-+Matplotlib.pyplot
++ Pandas
++ Numpy
++ Sklearn
++ Matplotlib.pyplot
